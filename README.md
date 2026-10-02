@@ -2,34 +2,34 @@
 
 ### Analista de Dados Júnior | SQL | Power BI | Python | Banco de Dados
 
-Profissional em transição para a área de Dados, com formação em Tecnologia em Banco de Dados e interesse em transformar dados em informações úteis para análise e tomada de decisão.
+Profissional em transição para a área de Dados, com formação em **Tecnologia em Banco de Dados** e interesse em transformar dados em informações úteis para análise e tomada de decisão.
 
-Atualmente, estou aprofundando meus conhecimentos em SQL, Power BI, Python, análise de dados e banco de dados, desenvolvendo projetos práticos para construir meu portfólio e aplicar os conhecimentos adquiridos.
+Atualmente, estou aprofundando meus conhecimentos em **SQL, Power BI, Python, análise de dados e banco de dados**, desenvolvendo projetos práticos para construir meu portfólio e aplicar os conhecimentos adquiridos.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Dados e Banco de Dados
+**Dados e Banco de Dados**
 
 * SQL
 * MySQL
 * SQL Server
 * MongoDB
 
-Análise e BI
+**Análise e BI**
 
 * Power BI
 * Excel
 * Power Query
 * DAX
 
-Programação
+**Programação**
 
 * Python
 * Pandas
 
-Ferramentas
+**Ferramentas**
 
 * Git
 * GitHub
